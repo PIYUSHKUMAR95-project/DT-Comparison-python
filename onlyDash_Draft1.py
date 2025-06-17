@@ -1,4 +1,4 @@
-//pip install dash dash-bootstrap-components pandas openpyxl
+#pip install dash dash-bootstrap-components pandas openpyxl
 
 import dash
 from dash import dcc, html, Output, Input, State
